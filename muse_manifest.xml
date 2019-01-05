@@ -1,0 +1,124 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolgarbiblio.github.io" resolutions="1x" timestamp="1546731598633">
+  <folder name="css">
+    <file name="site_global.css" crc="4276593456"/>
+    <file name="index.css" crc="442386557" ref="index"/>
+    <file name="iefonts_index.css" crc="467622802" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="form_check.php" crc="147359589" ref="index"/>
+    <file name="form_throttle.php" crc="93986428" ref="index"/>
+    <file name="form_process.php" crc="3851993751" ref="index"/>
+    <file name="form-u907.php" crc="470324601" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="header_bg.jpg" crc="4168908977" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg2.jpg" crc="329529810" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="job1.jpg" crc="3766358616" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="job4.jpg" crc="14196174" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="job2.jpg" crc="107682511" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="job5.jpg" crc="3957765727" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="job3.jpg" crc="4017202457" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="job6.jpg" crc="4120101088" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg3.jpg" crc="3796040" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="google.png" crc="286065160" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="samsung.png" crc="79267062" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flickr.png" crc="535800121" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="foursquare.png" crc="227064281" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="20125201" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="personal3.jpg" crc="3913342516" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="link.png" crc="4124859964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="personal1.png" crc="536600828" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="persona21.jpg" crc="23172711" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg4.jpg" crc="4125665576" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="play-u800.png" crc="3767524269" ref="index"/>
+    <file name="play-u800-r.png" crc="183855682" ref="index"/>
+    <file name="play-u800-m.png" crc="183855682" ref="index"/>
+    <file name="file-u802.png" crc="411364443" ref="index"/>
+    <file name="file-u802-r.png" crc="4214714398" ref="index"/>
+    <file name="iphone-5c.png" crc="3854556246" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ipad-air.png" crc="4069849912" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="macbook-pro.png" crc="76812853" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg5.jpg" crc="127544208" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_190.png" crc="157325440" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3970850938" seo="true" mt="1546731507753" redirect="true"/>
+</manifest>
